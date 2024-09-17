@@ -10,6 +10,7 @@
 
 
 👋 About Me
+
 🎓 Education: I am a B.Tech graduate in Computer Science and Engineering (CSE).
 
 
