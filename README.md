@@ -44,7 +44,7 @@ API Testing: Basic knowledge of testing APIs using SOAP UI.
 
 <div>
   <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hejazizo&show_icons=true&locale=en&layout=compact" alt="hejazizo" />
-  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=hejazizo&" alt="hejazizo" />
+  <img width="50%"  src="[https://github-readme-streak-stats.herokuapp.com/?user=hejazizo&](https://drive.google.com/file/d/1HQh1xvffJEoOe8OY5ncXD-ywWssFI0Cc/view?usp=sharing)" alt="hejazizo" />
 </div>
 
 
