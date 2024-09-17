@@ -7,9 +7,9 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:Konersayan9@gmail.com)
 [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://github.com/sayankoner)](https://github.com/sayankoner)
 [![Github](https://img.shields.io/github/followers/hejazizo?label=Follow&style=social)](https://github.com/hejazizo)
+
+
 👋 About Me
-
-
 🎓 Education: I am a B.Tech graduate in Computer Science and Engineering (CSE).
 
 
