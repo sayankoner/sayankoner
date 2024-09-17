@@ -2,12 +2,10 @@
 👋 About Me<br>🎓 Education: I am a B.Tech graduate in Computer Science and Engineering (CSE).<br><br>🛠️ Skills:<br><br>Manual Testing: Proficient in identifying and documenting bugs.<br>Automation Testing: Experienced with tools like Selenium and JUnit.<br>API Testing: Basic knowledge of testing APIs using SOAP UI.<br>🌱 Currently Learning: Enhancing my skills in API testing and exploring new automation tools.<br><br>💼 Career Goals: Aspiring to grow as a QA Engineer and contribute to high-quality software development.<br><br>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sayan-koner-bb8097192) 
-<img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sayankoner&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sayankoner&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sayankoner&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api?username=Sayan koner&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 
  
 # 📊 GitHub Stats:
