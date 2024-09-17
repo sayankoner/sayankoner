@@ -1,4 +1,6 @@
 # Sayan Koner
+
+
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/Sayankoner)](https://twitter.com/Sayankoner)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sayankoner15d/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/Sayankoner15/)](https://www.instagram.com/Sayankoner15)
@@ -6,14 +8,22 @@
 [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://github.com/sayankoner)](https://github.com/sayankoner)
 [![Github](https://img.shields.io/github/followers/hejazizo?label=Follow&style=social)](https://github.com/hejazizo)
 👋 About Me
+
+
 🎓 Education: I am a B.Tech graduate in Computer Science and Engineering (CSE).
+
+
 🛠️ Skills:
 Manual Testing: Proficient in identifying and documenting bugs.
 Automation Testing: Experienced with tools like Selenium and JUnit.
 API Testing: Basic knowledge of testing APIs using SOAP UI.
+
+
 🌱 Currently Learning: Enhancing my skills in API testing and exploring new automation tools.
 
+
 💼 Career Goals: Aspiring to grow as a QA Engineer and contribute to high-quality software development.
+
 
 ### 🖥 Skills
 
@@ -56,11 +66,5 @@ API Testing: Basic knowledge of testing APIs using SOAP UI.
 | ----------- | ----------- |
 |<img src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?activity_type=all&user_id=12960671&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/compose-recent-top-contributors/thumbnail.png?repo_id=41986369&image_size=auto" />|
 
-
-
-<div>
-  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hejazizo&show_icons=true&locale=en&layout=compact" alt="hejazizo" />
-  <img width="50%"  src="https://drive.google.com/file/d/1HQh1xvffJEoOe8OY5ncXD-ywWssFI0Cc/view?usp=sharing" alt="hejazizo" />
-</div>
 
 
