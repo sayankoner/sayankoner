@@ -1,5 +1,13 @@
-<h1 align="center">Hi 👋, I'm Sayan Koner <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
-</a></h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Guys+Let's+Enjoy+Coding.)](https://git.io/typing-svg)
+
+
+
+<p align="center">
+  <img width="1200" src="assets/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" />
+</p>  
+
+<h2 align="center">Hi Fellow 👋, I'm Sayan Koner!</h2>
+
 <h3 align="center">A passionate QA from Kolkata India &#127470;&#127475</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
