@@ -32,7 +32,7 @@
 🎓 Education: I am a B.Tech graduate in Computer Science and Engineering (CSE).
 
 
-🛠️ Skills:
+# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>Skills</b>
 Manual Testing: Proficient in identifying and documenting bugs.
 Automation Testing: Experienced with tools like Selenium and JUnit.
 API Testing: Basic knowledge of testing APIs using SOAP UI.
