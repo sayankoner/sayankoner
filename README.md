@@ -60,7 +60,8 @@ API Testing: Basic knowledge of testing APIs using SOAP UI.
 - Api testing 
 -       SOAP
 -       REST
-- CORE JAVA 
+- CORE JAVA
+-  ![Selenium Badge](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff&style=flat)
 
 - 💬 Ask me about **QA**
 
