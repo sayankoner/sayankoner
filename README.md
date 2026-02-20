@@ -67,7 +67,7 @@ API Testing: Basic knowledge of testing APIs using SOAP UI.
 
 - 📫 How to reach me **KONERSAYAN9@GMAIL.COM**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1i-lxbDwqFUAeobDkYLnTKYii7_cVlttR/view?usp=sharing" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1z8bTS_gVxTVovsDDnkO1AmHTVD91-aod/view?usp=sharing" target="blank">Resume</a>
 <br/>
 
 
