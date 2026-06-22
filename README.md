@@ -16,20 +16,31 @@
 
 </div>
 
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hey+There!+I'm+Sayan+Koner+👋;Automation+Enthusiast)](https://git.io/typing-svg)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sayan%20Koner&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Automation%20Enthusiast&descAlignY=62&descAlign=50" />
+
+</div>
+
 ---
 
 ## 👨‍💻 About Me
 
 ```yaml
-name: Sayan Koner
-location: Kolkata, India 🇮🇳
-education: B.Tech in Computer Science & Engineering
-role: QA Engineer
-experience: 2+ Years in Fintech Domain
-focus: Manual Testing + Automation Testing
-motto: "Automation Enthusiast"
-currently_learning: Playwright for UI Automation
-goal: Build robust, bug-free software at scale
+name               : Sayan Koner
+location           : Kolkata, India 🇮🇳
+education          : B.Tech in Computer Science & Engineering
+role               : QA Engineer
+experience         : 2+ Years in Fintech Domain
+focus              : Manual Testing + Automation Testing
+motto              : "Automation Enthusiast"
+currently_learning : Playwright for UI Automation
+goal               : Build robust, bug-free software at scale
+
+
+
 
 💼 Professional Experience
 🏦 Domain	Fintech (Banking & Financial Applications)
@@ -91,6 +102,12 @@ text
 🎭  Playwright          →  Modern cross-browser UI automation
 📘  Advanced API Testing →  Postman, REST Assured
 📐  BDD Framework       →  Cucumber + Selenium
+💬 Quote I Live By
+"Automation is not about replacing testers – it’s about empowering them to focus on what matters most: quality."
+
+⚡ Fun Fact
+I once found a critical bug that had been hiding in production for 2 years – just by running a simple exploratory test. 🕵️‍♂️
+
 🎯 Career Goals
 Aspiring to grow as a Senior QA Automation Engineer, building end-to-end test frameworks that ensure high-quality, reliable software — especially in the Fintech domain where quality is critical.
 
@@ -103,4 +120,4 @@ https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoCol
 https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
 
 </div>
-<div align="center"> <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/codediaz/codediaz/output/github-contribution-grid-snake.svg" /> </div><div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" /> </div><div align="center"> <img src="https://komarev.com/ghpvc/?username=sayankoner&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> <br/> <i>⭐ From <a href="https://github.com/sayankoner">Sayan Koner</a> — Automation Enthusiast 🚀</i> </div> ```
+<div align="center"> <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/codediaz/codediaz/output/github-contribution-grid-snake.svg" /> </div><div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" /> </div><div align="center"> <img src="https://komarev.com/ghpvc/?username=sayankoner&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> <br/> <i>⭐ From <a href="https://github.com/sayankoner">Sayan Koner</a> — Automation Enthusiast 🚀</i> </div>
