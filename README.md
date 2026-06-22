@@ -1,50 +1,54 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hey+There!+I'm+Sayan+Koner+👋;QA+Engineer+%7C+Automation+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hey+There!+I'm+Sayan+Koner+👋;QA+Engineer+%7C+Automation+Enthusiast;Building+bug‑free+software+at+scale)](https://git.io/typing-svg)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sayan%20Koner&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=QA%20Engineer%20%7C%20Fintech%20Domain%20%7C%20Automation%20Tester&descAlignY=62&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sayan%20Koner&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=QA%20Engineer%20%7C%20Fintech%20%7C%20Automation%20Tester&descAlignY=65&descAlign=50" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me – In a Nutshell
 
-```yaml
-name: Sayan Koner
-location: Kolkata, India 🇮🇳
-education: B.Tech in Computer Science & Engineering
-role: QA Engineer
-experience: 1.2 Years in Fintech Domain
-focus: Manual Testing + Automation Testing
-currently_learning: Playwright for UI Automation
-goal: Build robust, bug-free software at scale
-```
+<div align="center">
+
+| 💡 **Fact** | 📌 **Detail** |
+|-------------|---------------|
+| 🧑‍💻 **Name** | Sayan Koner |
+| 📍 **Location** | Kolkata, India 🇮🇳 |
+| 🎓 **Education** | B.Tech in Computer Science & Engineering |
+| 💼 **Current Role** | QA Engineer (Fintech) |
+| ⏱️ **Experience** | 1.2 Years |
+| 🎯 **Focus** | Manual + Automation Testing |
+| 🚀 **Learning** | Playwright, Advanced API Testing |
+| 🏆 **Goal** | Senior QA Automation Engineer |
+
+</div>
 
 ---
 
 ## 💼 Professional Experience
 
-<table>
+<table align="center">
   <tr>
-    <td>🏦 <b>Domain</b></td>
-    <td>Fintech (Banking & Financial Applications)</td>
-  </tr>
-  <tr>
-    <td>⏱️ <b>Experience</b></td>
-    <td>1.2 Years</td>
-  </tr>
-  <tr>
-    <td>🔍 <b>Focus Areas</b></td>
-    <td>End-to-End Testing, Regression, API Validation in Financial Workflows</td>
-  </tr>
-  <tr>
-    <td>🤖 <b>Automation</b></td>
-    <td>Selenium WebDriver, TestNG, Data-Driven Testing Frameworks</td>
-  </tr>
-  <tr>
-    <td>📋 <b>Manual Testing</b></td>
-    <td>Test Planning, Test Case Design, Bug Reporting, STLC</td>
+    <td valign="top" width="50%">
+      <h3 align="center">🏦 Fintech Domain</h3>
+      <ul>
+        <li>Banking & Financial Applications</li>
+        <li>End‑to‑End Testing</li>
+        <li>Regression & API Validation</li>
+        <li>KYC, Payment Gateway, Card Management</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <h3 align="center">🤖 Automation Stack</h3>
+      <ul>
+        <li><b>Selenium WebDriver</b> + Java</li>
+        <li><b>TestNG</b> – Test Management</li>
+        <li><b>Data‑Driven Testing</b> (Excel/CSV)</li>
+        <li>Currently learning <b>Playwright</b></li>
+      </ul>
+    </td>
   </tr>
 </table>
 
@@ -52,57 +56,73 @@ goal: Build robust, bug-free software at scale
 
 ## 🛠️ Tech Stack & Skills
 
-### 🧪 Testing — Manual
-
-![Manual Testing](https://img.shields.io/badge/Manual%20Testing-Expert-brightgreen?style=for-the-badge&logo=testcafe&logoColor=white)
-![STLC](https://img.shields.io/badge/STLC-Proficient-blue?style=for-the-badge)
-![Bug Reporting](https://img.shields.io/badge/Bug%20Reporting-Skilled-orange?style=for-the-badge)
-
-- ✅ Smoke & Sanity Testing
-- ✅ Regression & Retesting
-- ✅ Acceptance & UAT Testing
-- ✅ Exploratory Testing
-- ✅ Usability & Performance Testing
-- ✅ Globalization Testing
-- ✅ Test Case Design & Execution
-
----
-
-### 🤖 Testing — Automation
-
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![TestNG](https://img.shields.io/badge/TestNG-FF6600?style=for-the-badge&logo=java&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Java](https://img.shields.io/badge/Core%20Java-007396?style=for-the-badge&logo=java&logoColor=white)
-
-- 🔸 **Selenium WebDriver** — UI automation with Java
-- 🔸 **TestNG** — Test management & reporting
-- 🔸 **Data-Driven Testing (DDT)** — Excel/CSV based frameworks
-- 🔸 **Playwright** *(Currently Learning)* — Modern UI automation
-
----
-
-### 🌐 API Testing
-
-![REST](https://img.shields.io/badge/REST%20API-FF6B6B?style=for-the-badge&logo=postman&logoColor=white)
-![SOAP](https://img.shields.io/badge/SOAP-0066CC?style=for-the-badge&logo=apache&logoColor=white)
-![SOAPUI](https://img.shields.io/badge/SoapUI-FAAD14?style=for-the-badge&logo=soapui&logoColor=white)
-
-- 🔸 REST API Testing
-- 🔸 SOAP Web Services
-- 🔸 SoapUI for API validation
-
----
-
-## 📊 GitHub Stats
+### 🧪 Testing – Manual & Automation
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sayankoner&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayankoner&layout=compact&langs_count=7&theme=tokyonight"/>
+
+| **Category**          | **Skills**                                                                                                 |
+|-----------------------|------------------------------------------------------------------------------------------------------------|
+| **Manual Testing**    | Smoke, Sanity, Regression, Retesting, Acceptance, UAT, Exploratory, Usability, Globalization, Test Design |
+| **Automation Tools**  | Selenium WebDriver, TestNG, Data‑Driven Frameworks, Playwright (learning)                                 |
+| **API Testing**       | REST API, SOAP Web Services, SoapUI, Postman                                                              |
+
+</div>
+
+### 📊 Proficiency Levels
+
+<div align="center">
+  
+**Selenium WebDriver**  
+<div style="width: 80%; background: #1e1e2e; border-radius: 8px; margin: 5px auto;">
+  <div style="width: 85%; background: #00D9FF; border-radius: 8px; height: 8px;"></div>
+</div>
+
+**Manual Testing (STLC)**  
+<div style="width: 80%; background: #1e1e2e; border-radius: 8px; margin: 5px auto;">
+  <div style="width: 95%; background: #00D9FF; border-radius: 8px; height: 8px;"></div>
+</div>
+
+**Java (Core)**  
+<div style="width: 80%; background: #1e1e2e; border-radius: 8px; margin: 5px auto;">
+  <div style="width: 75%; background: #00D9FF; border-radius: 8px; height: 8px;"></div>
+</div>
+
+**API Testing (Postman/SoapUI)**  
+<div style="width: 80%; background: #1e1e2e; border-radius: 8px; margin: 5px auto;">
+  <div style="width: 80%; background: #00D9FF; border-radius: 8px; height: 8px;"></div>
+</div>
+
+</div>
+
+---
+
+### 🔧 Tools & Technologies – Badge Cloud
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/TestNG-FF6600?style=for-the-badge&logo=testng&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/SoapUI-FAAD14?style=for-the-badge&logo=soapui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Stats – Powered by Data
+
+<div align="center">
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sayankoner&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayankoner&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" />
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sayankoner&theme=tokyonight" alt="sayankoner" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sayankoner&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -110,51 +130,28 @@ goal: Build robust, bug-free software at scale
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sayankoner&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sayankoner&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
 </div>
 
 ---
 
-## 🌱 Currently Learning
+## 🧭 My Learning Journey
 
-```
-🎭  Playwright  →  Modern cross-browser UI automation
-📘  Advanced API Testing  →  Postman, REST Assured
-📐  BDD Framework  →  Cucumber + Selenium
-```
-
----
-
-## 🎯 Career Goals
-
-> Aspiring to grow as a **Senior QA Automation Engineer**, building end-to-end test frameworks that ensure high-quality, reliable software — especially in the **Fintech domain** where quality is critical.
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Sayankoner)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayan-koner-bb8097192/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sayan_koner07/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Konersayan9@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sayankoner)
-
-</div>
-
----
-
-<div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/codediaz/codediaz/output/github-contribution-grid-snake.svg" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sayankoner&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <br/>
-  <i>⭐ From <a href="https://github.com/sayankoner">Sayan Koner</a> — Let's Enjoy Coding! 🚀</i>
-</div>
+```mermaid
+timeline
+    title Career Growth & Learning Roadmap
+    section 2023
+        Graduated B.Tech (CSE) : Started QA career
+        : Manual Testing Foundation
+    section 2024
+        Joined Fintech : Selenium & Java Automation
+        : API Testing (Postman, SoapUI)
+        : Data‑Driven Frameworks
+    section 2025 (Current)
+        Playwright : Advanced API (REST Assured)
+        : BDD (Cucumber)
+        : CI/CD Integration
+    section 2026+
+        Senior QA Automation : Performance Testing
+        : AI/ML in Testing
+        : Lead/Architect Roles
