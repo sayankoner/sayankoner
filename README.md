@@ -8,6 +8,16 @@
 
 ---
 
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hey+There!+I'm+Sayan+Koner+👋;Automation+Enthusiast)](https://git.io/typing-svg)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sayan%20Koner&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Automation%20Enthusiast&descAlignY=62&descAlign=50" />
+
+</div>
+
+---
+
 ## 👨‍💻 About Me
 
 ```yaml
@@ -20,8 +30,13 @@ focus: Manual Testing + Automation Testing
 motto: "Automation Enthusiast"
 currently_learning: Playwright for UI Automation
 goal: Build robust, bug-free software at scale
+
 💼 Professional Experience
-<table> <tr> <td>🏦 <b>Domain</b></td> <td>Fintech (Banking & Financial Applications)</td> </tr> <tr> <td>⏱️ <b>Experience</b></td> <td>2+ Years</td> </tr> <tr> <td>🔍 <b>Focus Areas</b></td> <td>End-to-End Testing, Regression, API Validation in Financial Workflows</td> </tr> <tr> <td>🤖 <b>Automation</b></td> <td>Selenium WebDriver, TestNG, Data-Driven Testing Frameworks</td> </tr> <tr> <td>📋 <b>Manual Testing</b></td> <td>Test Planning, Test Case Design, Bug Reporting, STLC</td> </tr> </table>
+🏦 Domain	Fintech (Banking & Financial Applications)
+⏱️ Experience	2+ Years
+🔍 Focus Areas	E2E Testing, Regression, API Validation in Financial Workflows
+🤖 Automation	Selenium WebDriver, TestNG, Data-Driven Frameworks
+📋 Manual Testing	Test Planning, Test Case Design, Bug Reporting, STLC
 🛠️ Tech Stack & Skills
 🧪 Testing — Manual
 https://img.shields.io/badge/Manual%2520Testing-Expert-brightgreen?style=for-the-badge&logo=testcafe&logoColor=white
@@ -68,14 +83,14 @@ https://img.shields.io/badge/SoapUI-FAAD14?style=for-the-badge&logo=soapui&logoC
 🔸 SoapUI for API validation
 
 📊 GitHub Stats
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sayankoner&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayankoner&layout=compact&langs_count=7&theme=tokyonight"/> </div><div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sayankoner&theme=tokyonight" alt="sayankoner" /> </div>
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sayankoner&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayankoner&layout=compact&langs_count=7&theme=tokyonight"/> </div><div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sayankoner&theme=tokyonight" alt="GitHub Streak" /> </div>
 🏆 GitHub Trophies
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=sayankoner&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" /> </div>
 🌱 Currently Learning
 text
-🎭  Playwright  →  Modern cross-browser UI automation
-📘  Advanced API Testing  →  Postman, REST Assured
-📐  BDD Framework  →  Cucumber + Selenium
+🎭  Playwright          →  Modern cross-browser UI automation
+📘  Advanced API Testing →  Postman, REST Assured
+📐  BDD Framework       →  Cucumber + Selenium
 🎯 Career Goals
 Aspiring to grow as a Senior QA Automation Engineer, building end-to-end test frameworks that ensure high-quality, reliable software — especially in the Fintech domain where quality is critical.
 
@@ -88,4 +103,4 @@ https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoCol
 https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
 
 </div>
-<div align="center"> <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/codediaz/codediaz/output/github-contribution-grid-snake.svg" /> </div><div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" /> </div><div align="center"> <img src="https://komarev.com/ghpvc/?username=sayankoner&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" /> <br/> <i>⭐ From <a href="https://github.com/sayankoner">Sayan Koner</a> — Automation Enthusiast 🚀</i> </div> ```
+<div align="center"> <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/codediaz/codediaz/output/github-contribution-grid-snake.svg" /> </div><div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" /> </div><div align="center"> <img src="https://komarev.com/ghpvc/?username=sayankoner&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> <br/> <i>⭐ From <a href="https://github.com/sayankoner">Sayan Koner</a> — Automation Enthusiast 🚀</i> </div> ```
