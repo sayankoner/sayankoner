@@ -32,7 +32,7 @@ goal: Build robust, bug-free software at scale
   </tr>
   <tr>
     <td>⏱️ <b>Experience</b></td>
-    <td>1.2 Years</td>
+    <td>2+ Years</td>
   </tr>
   <tr>
     <td>🔍 <b>Focus Areas</b></td>
