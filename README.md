@@ -1,147 +1,186 @@
-<div align="center">
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasr6/giphy.gif" width="28">, I'm Sayan Koner</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hey+There!+I'm+Sayan+Koner+👋;QA+Engineer+%7C+Automation+Enthusiast)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=50&lines=QA+Engineer;Automation+Enthusiast;Manual+%26+API+Testing+Expert;Building+bug-free+software+🚀" alt="Typing SVG" />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sayan%20Koner&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=QA%20Engineer%20%7C%20Fintech%20Domain%20%7C%20Automation%20Tester&descAlignY=62&descAlign=50" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/sayan-koner-15d" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://sayankoner.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:konersayan98@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/sayankoner" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sayankoner&label=Profile%20Views&color=00D9FF&style=flat-square" alt="Profile Views" />
+</p>
 
 ---
 
-## 👨‍💻 About Me
+### 💫 About Me
 
-```yaml
-name: Sayan Koner
-location: Kolkata, India 🇮🇳
-education: B.Tech in Computer Science & Engineering
-role: QA Engineer
-experience: 2+ Years in Fintech Domain
-focus: Manual Testing + Automation Testing
-currently_learning: Playwright for UI Automation
-goal: Build robust, bug-free software at scale
-```
+I am a results-driven **QA Engineer** with **2+ years of experience** in the Fintech domain. I specialize in **manual & automated testing** — ensuring that banking applications, payment gateways, and financial workflows are robust, secure, and bug-free.
 
----
-
-## 💼 Professional Experience
-
-<table>
+<table width="100%">
   <tr>
-    <td>🏦 <b>Domain</b></td>
-    <td>Fintech (Banking & Financial Applications)</td>
-  </tr>
-  <tr>
-    <td>⏱️ <b>Experience</b></td>
-    <td>2+ Years</td>
-  </tr>
-  <tr>
-    <td>🔍 <b>Focus Areas</b></td>
-    <td>End-to-End Testing, Regression, API Validation in Financial Workflows</td>
-  </tr>
-  <tr>
-    <td>🤖 <b>Automation</b></td>
-    <td>Selenium WebDriver, TestNG, Data-Driven Testing Frameworks</td>
-  </tr>
-  <tr>
-    <td>📋 <b>Manual Testing</b></td>
-    <td>Test Planning, Test Case Design, Bug Reporting, STLC</td>
+    <td width="50%" valign="top">
+      <h4>🚀 Professional Journey</h4>
+      <ul>
+        <li>💼 <b>Current Role</b>: QA Engineer at <b>Stylopay</b></li>
+        <li>🎓 <b>Education</b>: B.Tech in Computer Science & Engineering</li>
+        <li>🌱 <b>Learning</b>: Playwright, REST Assured, Appium</li>
+        <li>🤝 <b>Collaboration</b>: Agile teams, API testing, CI/CD</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📬 Connect & Links</h4>
+      <ul>
+        <li>💬 <b>Ask me about</b>: Selenium, Java, Postman, API Testing</li>
+        <li>📧 <b>Email</b>: <a href="mailto:konersayan98@gmail.com">konersayan98@gmail.com</a></li>
+        <li>📄 <b>Resume</b>: <a href="#" target="_blank">Available on request</a></li>
+        <li>🔗 <b>Socials</b>: <a href="https://www.linkedin.com/in/sayan-koner-15d" target="_blank">LinkedIn</a> | <a href="https://sayankoner.github.io/portfolio/" target="_blank">Portfolio</a></li>
+      </ul>
+    </td>
   </tr>
 </table>
 
----
-
-## 🛠️ Tech Stack & Skills
-
-### 🧪 Testing — Manual
-
-![Manual Testing](https://img.shields.io/badge/Manual%20Testing-Expert-brightgreen?style=for-the-badge&logo=testcafe&logoColor=white)
-![STLC](https://img.shields.io/badge/STLC-Proficient-blue?style=for-the-badge)
-![Bug Reporting](https://img.shields.io/badge/Bug%20Reporting-Skilled-orange?style=for-the-badge)
-
-- ✅ Smoke & Sanity Testing
-- ✅ Regression & Retesting
-- ✅ Acceptance & UAT Testing
-- ✅ Exploratory Testing
-- ✅ Usability & Performance Testing
-- ✅ Globalization Testing
-- ✅ Test Case Design & Execution
+> ⚡ **Automation Enthusiast:** I believe in "building less code, more efficiency." Automating repetitive tasks is my superpower! 🤖🔥
 
 ---
 
-### 🤖 Testing — Automation
+### 🛠️ Tech Stack & Skills
 
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![TestNG](https://img.shields.io/badge/TestNG-FF6600?style=for-the-badge&logo=java&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Java](https://img.shields.io/badge/Core%20Java-007396?style=for-the-badge&logo=java&logoColor=white)
+<table>
+  <tr>
+    <td align="center" width="25%"><b>🧪 Testing – Manual</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Smoke%20Testing-Expert-brightgreen?style=flat-square" />
+      <img src="https://img.shields.io/badge/Regression%20Testing-Expert-brightgreen?style=flat-square" />
+      <img src="https://img.shields.io/badge/UAT%20Testing-Experienced-blue?style=flat-square" />
+      <img src="https://img.shields.io/badge/Exploratory%20Testing-Experienced-blue?style=flat-square" />
+      <img src="https://img.shields.io/badge/STLC-Proficient-blue?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="25%"><b>🤖 Automation</b></td>
+    <td>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=java,selenium,postman,git" alt="Automation Skills" />
+      </a>
+      <br/>
+      <img src="https://img.shields.io/badge/TestNG-FF6600?style=flat-square&logo=java&logoColor=white" />
+      <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
+      <img src="https://img.shields.io/badge/Appium-41BDF5?style=flat-square&logo=appium&logoColor=white" />
+      <img src="https://img.shields.io/badge/REST%20Assured-25A162?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="25%"><b>🌐 API Testing</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+      <img src="https://img.shields.io/badge/SOAPUI-FAAD14?style=flat-square&logo=soapui&logoColor=white" />
+      <img src="https://img.shields.io/badge/REST%20API-FF6B6B?style=flat-square&logo=postman&logoColor=white" />
+      <img src="https://img.shields.io/badge/SOAP-0066CC?style=flat-square&logo=apache&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="25%"><b>🛡️ Security & Performance</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square" />
+      <img src="https://img.shields.io/badge/JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white" />
+      <img src="https://img.shields.io/badge/OWASP%20Top%2010-000000?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="25%"><b>📋 DevOps & Tools</b></td>
+    <td>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=git,github,docker,jenkins" alt="Tools & DevOps" />
+      </a>
+      <br/>
+      <img src="https://img.shields.io/badge/JIRA-0052CC?style=flat-square&logo=jira&logoColor=white" />
+      <img src="https://img.shields.io/badge/Zephyr-00A3E0?style=flat-square" />
+      <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white" />
+      <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
-- 🔸 **Selenium WebDriver** — UI automation with Java
-- 🔸 **TestNG** — Test management & reporting
-- 🔸 **Data-Driven Testing (DDT)** — Excel/CSV based frameworks
-- 🔸 **Playwright** *(Currently Learning)* — Modern UI automation
+#### 🔧 Domain Expertise
+- 🏦 **Banking & Fintech** — Card payments, KYC/AML, cross-border transactions
+- 💳 **Card Lifecycle Management** — Activation, block/unblock, PIN reset
+- 🔐 **Regulatory Compliance** — Security, data integrity, financial workflows
 
 ---
 
-### 🌐 API Testing
+### 📊 GitHub Stats
 
-![REST](https://img.shields.io/badge/REST%20API-FF6B6B?style=for-the-badge&logo=postman&logoColor=white)
-![SOAP](https://img.shields.io/badge/SOAP-0066CC?style=for-the-badge&logo=apache&logoColor=white)
-![SOAPUI](https://img.shields.io/badge/SoapUI-FAAD14?style=for-the-badge&logo=soapui&logoColor=white)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sayankoner&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Sayan's GitHub Stats" height="190" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sayankoner&theme=tokyonight&hide_border=true" alt="Sayan's GitHub Streak" height="190" />
+</p>
 
-- 🔸 REST API Testing
-- 🔸 SOAP Web Services
-- 🔸 SoapUI for API validation
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayankoner&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" height="150" />
+</p>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sayankoner&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayankoner&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sayankoner&theme=tokyonight" alt="sayankoner" />
-</div>
+#### 📈 Contribution Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sayankoner&theme=tokyo-night&hide_border=true" alt="Sayan's Activity Graph" width="100%" />
+</p>
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sayankoner&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" />
-</div>
-
----
-
-## 🌱 Currently Learning
-
-```
-🎭  Playwright  →  Modern cross-browser UI automation
-📘  Advanced API Testing  →  Postman, REST Assured
-📐  BDD Framework  →  Cucumber + Selenium
-```
+### 🏆 Achievements & Credentials
+- 🎖️ **Certified Tester** — Manual & API Testing
+- 🚀 **Reduced Production Defects** by 30% through early test involvement
+- 📜 **Certifications**: Manual Testing, API Testing, Python, Appium (pursuing), JMeter (pursuing)
 
 ---
 
-## 🎯 Career Goals
+### ✍️ Random Dev Quote
 
-> Aspiring to grow as a **Senior QA Automation Engineer**, building end-to-end test frameworks that ensure high-quality, reliable software — especially in the **Fintech domain** where quality is critical.
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+</p>
 
 ---
 
-## 📫 Connect With Me
+### 📫 Connect With Me
 
-<div align="center">
-
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Sayankoner)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayan-koner-bb8097192/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sayan_koner07/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Konersayan9@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sayankoner)
-
-</div>
+<p align="center">
+  <a href="https://twitter.com/Sayankoner" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/sayan-koner-15d" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/sayan_koner07/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:konersayan98@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://sayankoner.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 
 ---
 
@@ -154,8 +193,5 @@ goal: Build robust, bug-free software at scale
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sayankoner&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <br/>
-  <i>⭐ From <a href="https://github.com/sayankoner">Sayan Koner</a> — Let's Enjoy Coding! 🚀</i>
+  <i>⭐ From <a href="https://github.com/sayankoner">Sayan Koner</a> — Automation Enthusiast 🚀</i>
 </div>
-
