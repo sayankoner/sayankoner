@@ -18,7 +18,7 @@
 | 📍 **Location** | Kolkata, India 🇮🇳 |
 | 🎓 **Education** | B.Tech in Computer Science & Engineering |
 | 💼 **Current Role** | QA Engineer (Fintech) |
-| ⏱️ **Experience** | 1.2 Years |
+| ⏱️ **Experience** | 2 Years |
 | 🎯 **Focus** | Manual + Automation Testing |
 | 🚀 **Learning** | Playwright, Advanced API Testing |
 | 🏆 **Goal** | Senior QA Automation Engineer |
