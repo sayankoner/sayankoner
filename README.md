@@ -47,7 +47,7 @@ I am a results-driven **QA Engineer** with **2+ years of experience** in the Fin
       <h4>📬 Connect & Links</h4>
       <ul>
         <li>💬 <b>Ask me about</b>: Selenium, Java, Postman, API Testing</li>
-        <li>📧 <b>Email</b>: <a href="mailto:konersayan98@gmail.com">konersayan98@gmail.com</a></li>
+        <li>📧 <b>Email</b>: <a href="mailto:konersayan9@gmail.com">konersayan9@gmail.com</a></li>
         <li>📄 <b>Resume</b>: <a href="https://drive.google.com/file/d/1J1AlO3_UVEvwTm7k5qwzjtWxMzlTVZh_/view?usp=sharing" target="_blank">Available on request</a></li>
         <li>🔗 <b>Socials</b>: <a href="https://www.linkedin.com/in/sayan-koner-15d" target="_blank">LinkedIn</a> | <a href="https://sayankoner.github.io/portfolio/" target="_blank">Portfolio</a></li>
       </ul>
